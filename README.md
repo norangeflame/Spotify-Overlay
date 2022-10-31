@@ -2,7 +2,9 @@
 
 Spotify Overlay by norangeflame. 
 Current version: 0.7.0 (31/10/2022)
-Download zip and extract all. Use Spotify Overlay.exe.
+Download zip and extract all. 
+
+Use Spotify Overlay.exe.
 
 ------------------------------------------------------------------------------
 
