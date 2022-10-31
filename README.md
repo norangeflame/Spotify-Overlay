@@ -4,7 +4,7 @@ Spotify Overlay by norangeflame.
 Current: Version 0.7.0
 Download zip and extract all. Use Spotify Overlay.exe.
 
-
+------------------------------------------------------------------------------
 
 Update History:
 
